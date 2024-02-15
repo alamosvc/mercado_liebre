@@ -17,8 +17,8 @@ app.get("/register.html", (req,res) => {
     res.sendFile(__dirname + "/views/register.html");
 });
 
-const port = procces.env.PORT || 3001;
+const PORT = procces.env.PORT || 3001;
 
-app.listen(port, () => {
-    console.log(`Servidor iniciado en http://localhost:${port}`);
+app.listen(PORT, () => {
+    console.log(`Servidor iniciado en http://localhost:${PORT}`);
 });
