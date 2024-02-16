@@ -1,7 +1,7 @@
 {
   "name": "entregable",
   "version": "1.0.0",
-  "description": "Proyecto entregable N°2 - MercadoLiebre - Digital House",
+  "description": "Proyecto entregable N°2 - Mercado_Liebre - DigitalHouse",
   "main": "app.js",
   "scripts": {
     "test": "nodemon src/app.js",

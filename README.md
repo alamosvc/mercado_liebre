@@ -1,2 +1,2 @@
-# mercado-liebre
-Proyecto entregable N°2 - MercadoLiebre - Digital House
+# mercado_liebre
+Proyecto entregable N°2 - Mercado_Liebre - DigitalHouse
